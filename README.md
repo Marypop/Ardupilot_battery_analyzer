@@ -2,7 +2,7 @@
 
 **Just change the file_directions location**
 
-Ardupilot battery analyzer using Padndas for calculation and Matlplotlib.
+Ardupilot battery analyzer using Pandas for calculation and Matlplotlib.
 Filterd by Time and Volt.
 
 Enjoy.
